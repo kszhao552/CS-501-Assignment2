@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="edit_id">edit_id</string>
+    <string name="button_id">button_id</string>
+    <string name="text_id">text_id</string>
+</resources>

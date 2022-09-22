@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Email Checker</string>
+    <string name="edit_hint">Email Address</string>
+    <string name="text_content">Result</string>
+    <string name="valid">Valid</string>
+    <string name="invalid">Invalid</string>
+    <string name="validate">Validate</string>
+</resources>
