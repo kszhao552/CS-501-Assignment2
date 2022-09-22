@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PasswordChecker</string>
+    <string name="pass">Password:</string>
+    <string name="pass_check">Reenter password:</string>
+    <string name="button">Check</string>
+    <string name="valid">THANK YOU</string>
+    <string name="invalid">PASSWORDS MUST MATCH</string>
+    <string name="start">Result</string>
+</resources>

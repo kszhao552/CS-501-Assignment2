@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pass_name">password</string>
+    <string name="pass_check_name">password_Checker</string>
+    <string name="button_name">check</string>
+    <string name="result_name">result</string>
+</resources>
